@@ -1,0 +1,5 @@
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwaWQiOiI1YTM1YmZmOC01YzI2LTQ3MDEtODU0MS0zMmJkODI1MmUzOWEiLCJleHAiOjE3NTEyODYxNDd9.QC6gD3f4-WfJKuOhCFQAQ8760qnZ1yxi3mgcOQ3akXC8dTIs5aJSy5hvpsRPl7vqw21SqN6a3fbW04lljKNiaQ"
+
+ curl --location --request GET 'localhost:5150/api/auth/current' \
+     --header 'Content-Type: application/json' \
+     --header 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwaWQiOiI1YTM1YmZmOC01YzI2LTQ3MDEtODU0MS0zMmJkODI1MmUzOWEiLCJleHAiOjE3NTEyODYxNDd9.QC6gD3f4-WfJKuOhCFQAQ8760qnZ1yxi3mgcOQ3akXC8dTIs5aJSy5hvpsRPl7vqw21SqN6a3fbW04lljKNiaQ'
